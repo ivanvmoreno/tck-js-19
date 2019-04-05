@@ -25,7 +25,7 @@ const FeatureImg = styled.img`
     }
 
     @media (min-width: 576px) and (max-width: 992px) {
-        max-width: 35vw;
+        max-width: 38vw;
     }
 `;
 
