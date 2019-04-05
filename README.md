@@ -1,4 +1,4 @@
-[]!(https://i.imgur.com/fs5VKRI.png)
+![](https://i.imgur.com/fs5VKRI.png)
 # TCK '19
 This is a project built for The Cocktail's front-end developers test with the help of [create-react-app](https://github.com/facebook/create-react-app)
 ## Powered by
