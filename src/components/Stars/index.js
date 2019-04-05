@@ -17,7 +17,7 @@ const Star = styled.span`
 export default function Stars(props) {
     const starsArray = [];
     for (let i = 0; i < props.count; i++) {
-        starsArray.push(<Star />);
+        starsArray.push(<Star key={i} />);
     }
 
     return <StarsWrapper>{ starsArray }</StarsWrapper>;
